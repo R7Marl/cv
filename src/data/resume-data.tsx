@@ -18,17 +18,17 @@ export const RESUME_DATA = {
       {
         name: "GitHub",
         url: "https://github.com/R7marl",
-        icon: IconoGitHub,
+        icon: GitHubIcon,
       },
       {
         name: "LinkedIn",
         url: "https://www.linkedin.com/in/luka-mateo-ayala-8612bb212/",
-        icon: IconoLinkedIn,
+        icon: LinkedInIcon,
       },
       {
         name: "X",
         url: "https://x.com/LukaEnginner",
-        icon: IconoX,
+        icon: XIcon,
       },
     ],
   },
