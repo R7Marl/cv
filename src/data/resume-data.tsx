@@ -1,4 +1,4 @@
-import { IconoGitHub, IconoLinkedIn, IconoX } from "@/componentes/iconos";
+import { IconoGitHub, IconoLinkedIn, IconoX } from "@/componentes/icons";
 
 export const RESUME_DATA = {
   name: "Luka Mateo Ayala",
