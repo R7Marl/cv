@@ -83,7 +83,7 @@ export const RESUME_DATA = {
   skills: [
     "JavaScript",
     "TypeScript",
-    "Laravel".
+    "Laravel",
     "NestJS",
     "PostgreSQL",
     "MySQL",
