@@ -3,7 +3,7 @@ import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 export const RESUME_DATA = {
   name: "Luka Mateo Ayala",
   initials: "",
-  location: "Argentina, Buenos Aires",
+  location: "Monte Grande, Buenos Aires, Argentina",
   locationLink: "https://maps.app.goo.gl/FUrvFYVNYFqUe8829",
   about:
     "Soy un ingeniero fullstack con experiencia en el diseño y desarrollo de soluciones robustas y escalables tanto en el frontend como en el backend.",
@@ -13,7 +13,7 @@ export const RESUME_DATA = {
   personalWebsiteUrl: "",
   contact: {
     email: "lukaelcapo2017gmail.com",
-    tel: "+54 11 3904-9957",
+    tel: "+54 11 3904-9957\nInglés B1",
     social: [
       {
         name: "GitHub",
@@ -83,7 +83,7 @@ export const RESUME_DATA = {
   skills: [
     "JavaScript",
     "TypeScript",
-    "Laravel",
+    "GIT",
     "NestJS",
     "PostgreSQL",
     "MySQL",
@@ -92,7 +92,10 @@ export const RESUME_DATA = {
     "Node.js",
     "HTML",
     "CSS",
-    "Tailwind"
+    "Docker",
+    "Deployments",
+    "Tailwind",
+    "AWS"
   ],
   projects: [
     {
@@ -128,6 +131,15 @@ export const RESUME_DATA = {
         label: "github.com",
         href: "https://github.com/R7Marl/queue-clash-lol",
       },
+    },
+    {
+      title: "eCommerce API REST",
+      techStack: ["TypeScript", "PostgreSQL", "TypeORM", "JWT", "Swagger", "NestJS"],
+      description: "Esto es una API REST de un eCommerce básico el cual iremos mejorando con el tiempo.",
+      link: {
+      label: "github.com",
+      href: "https://github.com/R7Marl/ecommerce-nestjs/",
+      }
     },
   ],
 } as const;
