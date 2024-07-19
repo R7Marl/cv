@@ -31,6 +31,7 @@ export default function Page() {
                 target="_blank"
               >
                 <GlobeIcon className="size-3" />
+                Nivel de Inglés: B2
                 {RESUME_DATA.location}
               </a>
             </p>
