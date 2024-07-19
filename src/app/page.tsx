@@ -25,13 +25,13 @@ export default function Page() {
               {RESUME_DATA.about}
             </p>
             <p className="max-w-md items-center text-pretty font-mono text-xs text-muted-foreground">
+              <p>Nivel de Inglés: B2</p>
               <a
                 className="inline-flex gap-x-1.5 align-baseline leading-none hover:underline"
                 href={RESUME_DATA.locationLink}
                 target="_blank"
               >
                 <GlobeIcon className="size-3" />
-                Nivel de Inglés: B2
                 {RESUME_DATA.location}
               </a>
             </p>
