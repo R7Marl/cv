@@ -6,7 +6,7 @@ export const RESUME_DATA = {
   location: "Monte Grande, Buenos Aires, Argentina",
   locationLink: "https://maps.app.goo.gl/FUrvFYVNYFqUe8829",
   about:
-    "Soy un ingeniero fullstack con experiencia en el diseño y desarrollo de soluciones robustas y escalables tanto en el frontend como en el backend.\nInglés: B2",
+    "Soy un ingeniero fullstack con experiencia en el diseño y desarrollo de soluciones robustas y escalables tanto en el frontend como en el backend.",
   summary:
     "Me especializo en la implementación de microservicios como NestJS. Uso de frameworks  ExpressJS y Laravel, así como en la gestión eficiente de bases de datos NoSQL y SQL. Mi enfoque en la calidad del código y el rendimiento del sistema me permite crear aplicaciones que no solo cumplen con los requisitos actuales, sino que también están preparadas para el futuro. Me apasiona resolver problemas complejos y mejorar continuamente mis habilidades a través de nuevos desafíos y tecnologías.",
   avatarUrl: "https://avatars.githubusercontent.com/u/61598384?s=400&u=57e0cc68c065373e8b0ed5341b90a49f20f0b808&v=4",
